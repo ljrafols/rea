@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This website holds the documents and review comments for the various submissions for the courses REA605 / REA705 / REA820 for the Seneca IFS program.
 
-### More Information
+### Group SSL members
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- Gaston Carvallo
+- Loyd Rafols
