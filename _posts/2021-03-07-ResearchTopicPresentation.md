@@ -3,7 +3,7 @@ layout: post
 title: Research Topic Presentation
 ---
 
-Video can be found here: [https://www.youtube.com/watch?v=1Ps8254jtF8]()
+Video can be found here: [https://www.youtube.com/watch?v=1Ps8254jtF8](https://www.youtube.com/watch?v=1Ps8254jtF8)
 
 [Download our presentation slides here](/uploads/REA605 Presentation.pdf)
 
