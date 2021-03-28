@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Project Proposal Draft 2
+title: Assignment 8 - Research Project Proposal Draft 2
 ---
 
 [Download our proposal draft here](/uploads/carvallo_rafols_Assignment8.pdf)
