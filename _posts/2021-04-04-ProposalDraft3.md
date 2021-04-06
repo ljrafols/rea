@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Assignment 9 - Research Project Proposal Draft 3
+date: April 4, 2021
 ---
 
 [Download our proposal draft here](/uploads/carvallo_rafols_Assignment9.pdf) and additionally, our [MS Project file can be downloaded here](/uploads/carvallo_rafols_ResearchProposalProjectPlan.mpp)
